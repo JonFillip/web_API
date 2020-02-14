@@ -1,7 +1,8 @@
 import requests
 
 # Make an API call and store the response
-url = 'https://api.github.com/search/repositories?q=language:python&sort=stars'
+url = 'https://api.github.com/search/repositories?q=language:javascript&sort' \
+      '=stars'
 headers = {'Accept': 'application/vnd.github.v3+json'}
 response_obj = requests.get(url, headers=headers)
 print(f"Status code: {response_obj.status_code}")
