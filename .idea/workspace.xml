@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2ab0b069-bfad-4fc8-8231-369c0cd5de87" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/javascript_repo_visual.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots/hn_visualization.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/plots/js_plot.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/git_repos.py" beforeDir="false" afterPath="$PROJECT_DIR$/git_repos.py" afterDir="false" />
