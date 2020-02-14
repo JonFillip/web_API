@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ab0b069-bfad-4fc8-8231-369c0cd5de87" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/javascript_repo_visual.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plots/hn_visualization.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/plots/js_plot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api_testing.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/git_repos.py" beforeDir="false" afterPath="$PROJECT_DIR$/git_repos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hn_topstories.py" beforeDir="false" afterPath="$PROJECT_DIR$/hn_topstories.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots/python_repo.html" beforeDir="false" afterPath="$PROJECT_DIR$/plots/python_repo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python_repo_visual.py" beforeDir="false" afterPath="$PROJECT_DIR$/python_repo_visual.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +42,7 @@
       <recent name="$PROJECT_DIR$/plots" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.hn_topstories">
+  <component name="RunManager" selected="Python tests.Unittests in api_testing.py">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -76,24 +74,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/git_repos.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="hacker_news_api" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="web_api" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../python_work" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hacker_news_api.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,13 +157,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Unittests in api_testing.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="web_api" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/api_testing.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests in api_testing.py" />
+        <item itemvalue="Python.python_repo_visual" />
         <item itemvalue="Python.hn_topstories" />
         <item itemvalue="Python.javascript_repo_visual" />
         <item itemvalue="Python.git_repos" />
-        <item itemvalue="Python.hacker_news_api" />
-        <item itemvalue="Python.python_repo_visual" />
       </list>
     </recent_temporary>
   </component>
@@ -212,6 +206,22 @@
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state x="648" y="335" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1581365864212" />
+    <state width="1899" height="344" key="GridCell.Tab.0.bottom" timestamp="1581699813500">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1899" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1581699813500" />
+    <state width="1899" height="344" key="GridCell.Tab.0.center" timestamp="1581699813499">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1899" height="344" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1581699813499" />
+    <state width="1899" height="344" key="GridCell.Tab.0.left" timestamp="1581699813498">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1899" height="344" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1581699813498" />
+    <state width="1899" height="344" key="GridCell.Tab.0.right" timestamp="1581699813499">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state width="1899" height="344" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1581699813499" />
     <state x="637" y="420" key="com.intellij.ide.util.TipDialog" timestamp="1581443570259">
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
